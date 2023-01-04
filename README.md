@@ -19,10 +19,10 @@
 ## 분석결과
 * 각 생활환경 데이터 별 Time Series K-Means 결과
 
-<!-- <img src= "./Visualize/PM10_Cluster_LinePlot_Total.png" width = "30%" height= "30%">
-<img src= "./Visualize/PM25_Cluster_LinePlot_Total.png" width = "30%" height= "30%">
-<img src= "./Visualize/NOISE_Cluster_LinePlot_Total.png" width = "30%" height= "30%"> -->
-![그림3](./Visualize/PM25_Cluster_LinePlot_Total.png){: width = "30%" height= "30%"}
+<img src= "./Visualize/PM10_Cluster_LinePlot_Total.png" width = "30%" height= "30%" />
+<img src= "./Visualize/PM25_Cluster_LinePlot_Total.png" width = "30%" height= "30%" />
+<img src= "./Visualize/NOISE_Cluster_LinePlot_Total.png" width = "30%" height= "30%" />
+<!-- ![그림3](./Visualize/PM25_Cluster_LinePlot_Total.png){: width = "30%" height= "30%"} -->
 
 * 각 생활환경 데이터 별 생활환경지도
 
