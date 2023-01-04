@@ -25,8 +25,8 @@
 
 * 각 생활환경 데이터 별 생활환경지도
 
-<img src= "./Visualize/PM10_생활환경지도.jpg" width = "32%" height= "32%">
-<img src= "./Visualize/PM25_생활환경지도.jpg" width = "32%" height= "32%">
-<img src= "./Visualize/NOISE_생활환경지도.jpg" width = "32%" height= "32%">
+<img src= "./Visualize/PM10_ENV_Map.jpg" width = "32%" height= "32%">
+<img src= "./Visualize/PM25_ENV_Map.jpg" width = "32%" height= "32%">
+<img src= "./Visualize/NOISE_ENV_Map.jpg" width = "32%" height= "32%">
 
 ** 본 연구는 2022년도 서울 데이터 펠로우십에 지원에 의한 연구임을 밝힙니다.
