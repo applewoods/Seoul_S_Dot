@@ -19,14 +19,15 @@
 ## 분석결과
 * 각 생활환경 데이터 별 Time Series K-Means 결과
 
-<img src= "./Visualize/PM10_Cluster_LinePlot_Total.png" width = "30%" height= "32%">
-<img src= "./Visualize/PM25_Cluster_LinePlot_Total.png" width = "30%" height= "32%">
-<img src= "./Visualize/NOISE_Cluster_LinePlot_Total.png" width = "30%" height= "32%">
+<!-- <img src= "./Visualize/PM10_Cluster_LinePlot_Total.png" width = "30%" height= "30%">
+<img src= "./Visualize/PM25_Cluster_LinePlot_Total.png" width = "30%" height= "30%">
+<img src= "./Visualize/NOISE_Cluster_LinePlot_Total.png" width = "30%" height= "30%"> -->
+![그림3](./Visualize/PM25_Cluster_LinePlot_Total.png){: width = "30%" height= "30%"}
 
 * 각 생활환경 데이터 별 생활환경지도
 
-<img src= "./Visualize/PM10_ENV_Map.jpg" width = "30%" height= "32%">
-<img src= "./Visualize/PM25_ENV_Map.jpg" width = "30%" height= "32%">
-<img src= "./Visualize/NOISE_ENV_Map.jpg" width = "30%" height= "32%">
+<img src= "./Visualize/PM10_ENV_Map.jpg" width = "30%" height= "30%">
+<img src= "./Visualize/PM25_ENV_Map.jpg" width = "30%" height= "30%">
+<img src= "./Visualize/NOISE_ENV_Map.jpg" width = "30%" height= "30%">
 
 ** 본 연구는 2022년도 서울 데이터 펠로우십에 지원에 의한 연구임을 밝힙니다.
